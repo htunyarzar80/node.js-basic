@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/htunyarzar80/Node.js-Basic-Features.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
